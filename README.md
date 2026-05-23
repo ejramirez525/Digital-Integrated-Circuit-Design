@@ -37,7 +37,7 @@ This repository presents the design, layout implementation, and simulation of fu
 
 ## 🔗 Circuit Layouts & Netlists
 
-### **[CMOS NAND Gate](https://github.com/ejramirez525/Digital-Integrated-Circuit-Design/tree/main/nand)**
+### **[CMOS NAND Gate](https://github.com/ejramirez525/Digital-Integrated-Circuit-Design/tree/main/nand-gate)**
 
 <div align="center">
   <img src="nand-gate/nand-design.png" alt="CMOS NAND Gate Design" width="65%">
@@ -59,7 +59,7 @@ This repository presents the design, layout implementation, and simulation of fu
 
 ---
 
-### **[CMOS AND Gate](https://github.com/ejramirez525/Digital-Integrated-Circuit-Design/tree/main/and)**
+### **[CMOS AND Gate](https://github.com/ejramirez525/Digital-Integrated-Circuit-Design/tree/main/and-gate)**
 
 <div align="center">
   <img src="and-gate/and-design.png" alt="CMOS AND Gate Design" width="65%">
@@ -82,7 +82,7 @@ This repository presents the design, layout implementation, and simulation of fu
 
 ---
 
-### **[NOR Gate](https://github.com/ejramirez525/Digital-Integrated-Circuit-Design/tree/main/nor)**
+### **[NOR Gate](https://github.com/ejramirez525/Digital-Integrated-Circuit-Design/tree/main/nor-gate)**
 
 <div align="center">
   <img src="nor-gate/nor-design.png" alt="NOR Gate Design" width="65%">
@@ -104,7 +104,7 @@ This repository presents the design, layout implementation, and simulation of fu
 
 ---
 
-### **[OR Gate](https://github.com/ejramirez525/Digital-Integrated-Circuit-Design/tree/main/or)**
+### **[OR Gate](https://github.com/ejramirez525/Digital-Integrated-Circuit-Design/tree/main/or-gate)**
 
 <div align="center">
   <img src="or-gate/or-design.png" alt="OR Gate Design" width="65%">
@@ -127,7 +127,7 @@ This repository presents the design, layout implementation, and simulation of fu
 
 ---
 
-### **[XOR Gate](https://github.com/ejramirez525/Digital-Integrated-Circuit-Design/tree/main/xor)**
+### **[XOR Gate](https://github.com/ejramirez525/Digital-Integrated-Circuit-Design/tree/main/xor-gate)**
 
 <div align="center">
   <img src="xor-gate/xor-design.png" alt="XOR Gate Design" width="65%">
